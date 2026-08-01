@@ -92,3 +92,19 @@ ninja
 ---
 
 Made with ❤️ using Raspberry Pi RP2040 and TinyUSB.
+
+---
+
+# Hardware
+
+The project is based on **RP2040 Zero**, an **SSD1306 OLED (I²C)** display and four push buttons.
+
+## Schematic
+
+<p align="center">
+    <img src="docs/Schematic.png" width="900">
+</p>
+
+📄 Full schematic:
+
+[RP2040_USB_HID_Schematic.pdf](docs/Schematic.pdf)
