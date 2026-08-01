@@ -34,14 +34,41 @@ Keyboard • MacroPad • Music Controller
 
 ---
 
+# Gallery
+
+## Mode Selection
+
+<p align="center">
+    <img src="images/menu.jpg" width="500">
+</p>
+
+## Keyboard Mode
+
+<p align="center">
+    <img src="images/keyboard.jpg" width="500">
+</p>
+
+## MacroPad Mode
+
+<p align="center">
+    <img src="images/macropad.jpg" width="500">
+</p>
+
+## Music Mode
+
+<p align="center">
+    <img src="images/music.jpg" width="500">
+</p>
+---
+
 ## Pinout
 
-| Signal | GPIO |
-|---------|------|
-| BTN1 | GPIO2 |
-| BTN2 | GPIO3 |
-| BTN3 | GPIO4 |
-| BTN4 | GPIO5 |
+| Signal   | GPIO  |
+| -------- | ----- |
+| BTN1     | GPIO2 |
+| BTN2     | GPIO3 |
+| BTN3     | GPIO4 |
+| BTN4     | GPIO5 |
 | OLED SDA | GPIO0 |
 | OLED SCL | GPIO1 |
 
@@ -49,34 +76,34 @@ Keyboard • MacroPad • Music Controller
 
 ## Keyboard Mode
 
-| Button | Action |
-|--------|--------|
-| BTN1 | Ctrl + C |
-| BTN2 | Ctrl + V |
-| BTN3 | Enter |
-| BTN4 | Esc |
+| Button | Action   |
+| ------ | -------- |
+| BTN1   | Ctrl + C |
+| BTN2   | Ctrl + V |
+| BTN3   | Enter    |
+| BTN4   | Esc      |
 
 ---
 
 ## MacroPad Mode
 
-| Button | Action |
-|--------|--------|
-| BTN1 | Ctrl + S |
-| BTN2 | Ctrl + Z |
-| BTN3 | F5 |
-| BTN4 | Shift + F5 |
+| Button | Action     |
+| ------ | ---------- |
+| BTN1   | Ctrl + S   |
+| BTN2   | Ctrl + Z   |
+| BTN3   | F5         |
+| BTN4   | Shift + F5 |
 
 ---
 
 ## Music Mode
 
-| Button | Action |
-|--------|--------|
-| BTN1 | Volume Down |
-| BTN2 | Play / Pause |
-| BTN3 | Volume Up |
-| BTN4 | Next Track |
+| Button | Action       |
+| ------ | ------------ |
+| BTN1   | Volume Down  |
+| BTN2   | Play / Pause |
+| BTN3   | Volume Up    |
+| BTN4   | Next Track   |
 
 ---
 
