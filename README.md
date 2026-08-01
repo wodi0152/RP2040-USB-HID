@@ -17,7 +17,11 @@ A multifunctional USB HID device based on <b>RP2040 Zero</b> featuring <b>Keyboa
 
 </p>
 
----
+## Demo
+
+🎥 Watch the project demonstration:
+
+## https://youtu.be/WCSGy3GVpAo
 
 # Features
 
